@@ -5,8 +5,7 @@
 **GRIP@ The Sparks Foundation | GRIP January 2024**
 
 **Data:** Sample Superstore  
-**Contribution:** Individual  
-**Author:** Nikita Ashok Kapade
+**Author:** Pooja Rathore
 
 ## Objective:
 The primary goal of this project was to conduct a comprehensive exploration of the retail dataset, extract key insights, and identify areas for improvement to enhance profitability.
